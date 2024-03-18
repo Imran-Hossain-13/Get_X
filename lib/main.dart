@@ -4,7 +4,7 @@ import 'package:get_x/languages.dart';
 import 'package:get_x/screen_two.dart';
 import 'home.dart';
 
-void main() {
+void main() async{
   runApp(const MyApp());
 }
 
